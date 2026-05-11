@@ -1,9 +1,13 @@
 # Hi there! 👋 I'm @iamiscdev
 
 ## About Me
-- 👀 I’m passionate about **Java**, **C++**, **JavaScript**.
-- 🌱 I’m currently learning **HTML**, **CSS**, and **JavaScript** to expand my web development skills.
-- 📫 Feel free to reach out to me through [Facebook](https://www.facebook.com/isaacrei.13) for collaborations or discussions!
+
+[![Skills](https://skills.syvixor.com/api/icons?i=flutter,python,js,firebase,streamlit,git,java,cpp)](https://github.com/syvixor/skills-icons)
+
+- 👀 I'm passionate about **Java**, **C++**, **Flutter**, **Python**, **JavaScript**, and **cybersecurity**.
+- 🌱 I'm currently studying **CS** at the Technological Institute of the Philippines – QC, building expert systems, mobile apps, and simulations.
+- 💻 Recent projects: [CyberGuard](https://github.com/iamiscdev/cyberguard) (rule-based cybersecurity expert system), Rule Builder (Flutter/Firebase), and CardConnect.
+- 📫 Feel free to reach out through [Facebook](https://www.facebook.com/isaacrei.13) for collaborations or discussions!
 - 😄 Pronouns: ai-zuhk
 
 <!---
