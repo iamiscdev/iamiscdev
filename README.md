@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm @iamiscdev
 
 ## About Me
-- 👀 I’m passionate about **Java** and **C++**.
+- 👀 I’m passionate about **Java**, **C++**, **JavaScript**.
 - 🌱 I’m currently learning **HTML**, **CSS**, and **JavaScript** to expand my web development skills.
 - 📫 Feel free to reach out to me through [Facebook](https://www.facebook.com/isaacrei.13) for collaborations or discussions!
 - 😄 Pronouns: ai-zuhk
