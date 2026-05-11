@@ -2,7 +2,7 @@
 
 ## About Me
 
-[![Skills](https://skills.syvixor.com/api/icons?i=flutter,python,js,firebase,streamlit,git,java,cpp)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=java,cpp,flutter,python,js,firebase,streamlit,git)](https://github.com/syvixor/skills-icons)
 
 - 👀 I'm passionate about **Java**, **C++**, **Flutter**, **Python**, **JavaScript**, and **cybersecurity**.
 - 🌱 I'm currently studying **CS** at the Technological Institute of the Philippines – QC, building expert systems, mobile apps, and simulations.
